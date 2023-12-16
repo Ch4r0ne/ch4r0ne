@@ -18,5 +18,4 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ch4r0ne&theme=radical&hide_border=false)<br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ch4r0ne&theme=radical&exclude_repo=EXIFrenameX_Web)](https://github.com/Ch4r0ne/github-readme-stats)
 
-[![](https://visitcount.itsvg.in/api?id=ch4r0ne&label=Profile%20Views&color=1&icon=0&pretty=false)](https://visitcount.itsvg.in)
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/v7pMrdZUVU)
