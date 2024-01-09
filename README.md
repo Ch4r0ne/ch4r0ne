@@ -18,3 +18,5 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ch4r0ne&theme=radical&exclude_repo=EXIFrenameX_Web)](https://github.com/Ch4r0ne/github-readme-stats)
 
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/v7pMrdZUVU)
+
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=ch4r0ne)
