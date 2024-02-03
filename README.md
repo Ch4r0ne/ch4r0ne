@@ -14,10 +14,6 @@ I'm an IT System Engineer with a strong focus on Windows and Linux-based systems
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ch4r0ne&theme=radical&exclude_repo=EXIFrenameX_Web&layout=compact)
 
-## Get in Touch
-
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/v7pMrdZUVU)
-
 ## GitHub Trophies
 
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=ch4r0ne&theme=darkhub)
