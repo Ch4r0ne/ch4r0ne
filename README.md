@@ -31,10 +31,10 @@ I discover patterns.
   <a href="https://github.com/Ch4r0ne" style="text-decoration:none;">
     <img src="https://img.shields.io/badge/GITHUB-232629?style=for-the-badge&logo=github&logoColor=174B7F" />
   </a>
-  <a href="https://www.linkedin.com/in/timleinich/" style="text-decoration:none;">
+  <a href="https://www.linkedin.com/in/leinich/" style="text-decoration:none;">
     <img src="https://img.shields.io/badge/LINKEDIN-232629?style=for-the-badge&logo=linkedin&logoColor=174B7F" />
   </a>
-  <a href="mailto:tim.leinich@gmail.com" style="text-decoration:none;">
+  <a href="mailto:admin@technetpro.de" style="text-decoration:none;">
     <img src="https://img.shields.io/badge/EMAIL-232629?style=for-the-badge&logo=gmail&logoColor=174B7F" />
   </a>
 </p>
