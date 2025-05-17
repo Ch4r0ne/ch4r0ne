@@ -1,19 +1,41 @@
-# Hi there, I'm Tim Leinich, known as Ch4r0ne 👋
+<br><br>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=38&duration=3500&pause=900&color=1877C6&center=true&vCenter=true&lines=Ch4r0ne" alt="Typing SVG" />
+</p>
 
-<a href="https://github.com/ch4r0ne">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=IT-System+Engineer;Windows+and+Network%2FFirewall+Enthusiast;Passionate+Community+Developer;Always+Learning+New+Things&width=500&height=50">
-</a>
+<p align="center" style="font-size:1.17em; color:#A3BFF2; letter-spacing: 0.10em;">
+In silence I shape systems.<br>
+In the shadows I build clarity.
+</p>
+<br><br>
 
-## About Me
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=windows,python,powershell,azure,linux,html,css&theme=dark" height="70" style="margin:0 16px;">
+</p>
+<br>
 
-I'm an IT System Engineer with a strong focus on Windows and Linux-based systems. My expertise lies in networking and firewalls, and I actively contribute to community development projects during my spare time. Continuously learning and exploring new technologies is my passion.
+<p align="center" style="font-size:1.14em; color:#BFD7ED; font-style:italic; line-height:2;">
+Technology, transformed quietly.<br>
+Security, woven seamlessly.<br>
+Where others see noise,<br>
+I discover patterns.
+</p>
+<br>
 
-## GitHub Activity
+<div align="center" style="margin:36px 0;">
+  <img src="https://github-readme-stats.vercel.app/api?username=Ch4r0ne&show_icons=true&hide_title=true&hide_border=true&count_private=true&bg_color=232629&title_color=174B7F&icon_color=174B7F&text_color=BFD7ED" height="120" style="border-radius:12px;">
+</div>
+<br>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ch4r0ne&theme=radical&hide_border=false&include_all_commits=false&count_private=false&show_icons=true&hide_title=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ch4r0ne&theme=radical&exclude_repo=EXIFrenameX_Web&layout=compact)
-
-## GitHub Trophies
-
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=ch4r0ne&theme=darkhub)
+<p align="center" style="margin-top:38px;">
+  <a href="https://github.com/Ch4r0ne" style="text-decoration:none;">
+    <img src="https://img.shields.io/badge/GITHUB-232629?style=for-the-badge&logo=github&logoColor=174B7F" />
+  </a>
+  <a href="https://www.linkedin.com/in/timleinich/" style="text-decoration:none;">
+    <img src="https://img.shields.io/badge/LINKEDIN-232629?style=for-the-badge&logo=linkedin&logoColor=174B7F" />
+  </a>
+  <a href="mailto:tim.leinich@gmail.com" style="text-decoration:none;">
+    <img src="https://img.shields.io/badge/EMAIL-232629?style=for-the-badge&logo=gmail&logoColor=174B7F" />
+  </a>
+</p>
+<br><br>
