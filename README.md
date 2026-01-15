@@ -35,7 +35,7 @@
 <p align="center">
   <img src="https://img.shields.io/github/followers/Ch4r0ne?style=for-the-badge&label=Followers&labelColor=232629&color=1877C6" alt="Followers" />
   <img src="https://img.shields.io/badge/Public%20Repos-15-232629?style=for-the-badge&labelColor=232629&color=1877C6" alt="Public Repos" />
-  <img src="https://img.shields.io/github/stars/Ch4r0ne/ARK-Ascended-Server-Manager?style=for-the-badge&label=Stars%20(ARK%20Manager)&labelColor=232629&color=1877C6" alt="Stars" />
+  <img src="https://img.shields.io/github/stars/Ch4r0ne?style=for-the-badge&label=Stars%20(total)&labelColor=232629&color=1877C6" alt="Total Stars" />
   <img src="https://img.shields.io/github/last-commit/Ch4r0ne/ARK-Ascended-Server-Manager?style=for-the-badge&label=Last%20Commit&labelColor=232629&color=1877C6" alt="Last Commit" />
 </p>
 
